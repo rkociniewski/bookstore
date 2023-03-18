@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.powermilk
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data, data-mongodb-reactive, flyway, github-workflow-ci, gitlab-workflow-ci, gradle, http-client, kotest, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, log4j2, micronaut-build, netty-server, openapi, reactor, reactor-http-client, readme, serialization-jackson, shade, swagger-ui, test-resources, yaml]
